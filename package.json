@@ -1,0 +1,15 @@
+{
+  "name": "04-lamp",
+  "version": "1.0.0",
+  "description": "404 error lamp",
+  "main": "index.js",
+  "scripts": {
+    "lamp": "run dead-server --host=localhost --port=2247"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darius (https://github.com/DuserK)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
